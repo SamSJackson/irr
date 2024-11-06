@@ -1,0 +1,65 @@
+
+Example 2-A:
+RQ: "Deep Learning: A panacea for shortcomings of traditional recommender systems?"
+
+Abstract: 
+- Investigates existing methods to approach current problems.
+- Determines what is working and notes the future area of improvement.
+
+Introduction: 
+- Motivate RS.
+- Discuss existing trad-RS systems.
+	- Pros
+	- Cons
+- Introduce ML and DL approaches
+	- DL success elsewhere.
+	- Highlight where DL may succeed where trad-RS cannot.
+- Give review limitations as well as primary objective.
+- Summarise key questions/arguments
+- Give structuring.
+
+Background:
+- Just some maths on trad-rs systems.
+- Arguments on why DL is used (in general). 
+
+Literature Review:
+- Subsections based on RS-approaches.
+- Summary of SOTA papers in their respective fields, highlighting pros and cons with respect to the DL fixing trad-RS problems.
+
+Conclusion:
+- Overview of review alongside final argument of each subsection.
+- Final summary of existing research.
+- Recommendation for future work.
+
+Example 3-A:
+RQ: "Evaluating the Bayesian Brain Framework in Cognitive Science"
+
+Abstract:
+- Discusses existing methods.
+- Highlights review of studies pro-computational framework and anti (with specific areas).
+- Discusses primary points of improvement that research review found.
+
+Introduction:
+- General motivation of topic.
+- High-level description of concept.
+- Discussion of exact method of answering RQ. 
+- Discuss structuring of review.
+
+(Sub-section of Intro) Background: 
+- Bayes Theorem
+- History and philosophical arguments of Bayes'
+- No discussion of Marr? wtf are Marr's levels of analysis. Should be in background, not at start of intro. 
+
+Literature Review:
+- Essentially a back-and-forth between papers supporting Bayesian computation against Marr's levels of analysis and papers critiquing support. 
+
+I do not like this paper. 
+
+Limitations and Future Directions:
+- Highlights lack of unity amongst researchers and should be a concerted effort to converge to a result.
+- Proposes future work based on criticism in limitations. 
+
+Conclusions:
+- Summarise discussion.
+- Summarise process of reviewing.
+- Conclusion/final argument of review; primary future work.

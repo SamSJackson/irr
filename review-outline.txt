@@ -1,0 +1,56 @@
+RQ: Can we improve the reliability of social networks for real-time disaster-response? 
+
+What to review:
+- Motivation for Social Networks in Disaster Response.
+- Potential issues in reliability of social networks for disaster response. 
+- Existing methods of using social networks for disaster response. 
+- Methods of real-time analysing social networks. 
+
+Seed Papers:
+- CONTAIN: A community-based algorithm for network immunization.
+DOI: 10.1016/J.JESTCH.2024.101728
+
+- CrisisFacts: Building and Evaluating Crisis Timelines
+DOI: 10.59297/JVQZ9405
+
+- MCWDST: A Minimum-Cost Weighted Directed Spanning Tree Algorithm for Real-Time Fake News Mitigation in Social Media
+DOI: 10.1109/ACCESS.2023.3331220
+
+- Mobility Network Models of COVID-19 explain inequities and inform reopening
+DOI: 10.1038/s41586-020-2923-3
+
+
+Introduction:
+
+Major points: 
+- Motivate further use-case, for both assistive and preventative measures of disaster-response.
+- How are networks used for crisis events at the moment? 
+- How can we analyse social networks in real-time?
+- Define what reliabitlity of a network means.
+- What are techniques to improve reliability at the moment?
+
+Background:
+- Networks
+- Network Immunization
+- Fake News Detection
+
+Literature Review: 
+Primary papers:
+- CrisisFacts - method of building and evaluating crisis timelines.
+- Mobility Network Models - example of network models for real-time (long-term) disaster response.
+- MCWDST - method of detecting fake news in real-time across social networks (social media).
+- CONTAIN - Community-based algorithm (Louvain) for network immunization (improving reliability).
+
+Major points: 
+- Methods for building crisis timelines are still being built.
+- Current methods of disaster-response are primarily on mobility data.
+- Focus of reliability is removing fake news (misinformation or fake news?, intention is relevant).
+- Methods of improving reliability are network immunization. 
+
+Future Work: 
+- Different methods of network immunization? 
+- Improvements to detecting/determining a disaster from social network? (i.e. facebook was first to know about cowgate incident). 
+
+
+Conclusion:
+- Just summarise. Write this at the end. No point speculating now.
