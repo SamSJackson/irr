@@ -53,8 +53,6 @@ Introduction:
 Literature Review:
 - Essentially a back-and-forth between papers supporting Bayesian computation against Marr's levels of analysis and papers critiquing support. 
 
-I do not like this paper. 
-
 Limitations and Future Directions:
 - Highlights lack of unity amongst researchers and should be a concerted effort to converge to a result.
 - Proposes future work based on criticism in limitations. 

@@ -1,0 +1,33 @@
+Note-Taking Proforma
+
+Title: Crisis Facts: Building and Evaluating Crisis Timelines
+Journal: 31st Text Retrieval Conference (TREC 2022)
+Author(s): Richard McCreadie, Cody Buntain
+Volume: -
+Year: 2022
+Page(s): -
+
+What is the paper about?
+Identifying crises from multiple social networks/data stream for faster goverment response. 
+
+What is the aim of the study?
+Proposes a data challenge with the purpose of improving event summarization from multiple data streams. 
+
+Primarily, the challenge aims to mitigate enumerated concerns:
+1. Segregation of information sources (only Twitter).
+2. Presenting crisis information in human interpretable manner.
+3. Dealing with large volumes of high velocity data.
+4. Helping disaster-response personnel with where to look during disaster.
+
+Why is it important?
+
+
+What is the approach/method used to acquire the data? 
+
+What are the key findings?
+
+Are there any limitations?
+
+What are the main conclusions and implications in the wider context?
+
+Any other comments?

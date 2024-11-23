@@ -1,0 +1,45 @@
+Note-Taking Proforma
+
+Title: Supersharers of fake news on Twitter 
+Journal: Science
+Author(s): Sahar Baribi-Bartov, Briony Swire-Thompson, And Nir Grinberg
+Volume: 384:6699
+Year: 2024
+Page(s): 979-982
+
+What is the paper about?
+The paper is about identifying shares of fake news on Twitter during the 2020 US Elections. 
+
+What is the aim of the study?
+The aim of the study is to understand the ability of ordinary voters to flood social media with fake news.
+
+Why is it important?
+There is worth in this research as it helps us understand the demographic prone to spreading fake news and potentially understand preventive or pre-emptive methods to avoid this fake news spreading.
+
+What is the approach/method used to acquire the data?
+Panel of registered voters (~600k). 
+
+
+What are the key findings?
+- Supershares of fake news are typically older than the average Twitter user, at 58.
+- Supershares of non fake-news are typically younger than the supershares of fake news (51 vs 58).
+- Supershares are found to be older, right-leaning women originating from Texas, Arizona and Florida, with little difference in economic and educational status. 
+- Supershares of fake news are significantly more dense than supershares of non-fake news when it comes to impact on social network (0.3% of SS-F corresponds to 80% of fake news whereas 0.3% of SS-NF corresponds to 40% of NF).
+
+Are there any limitations?
+- Sample size is predominantly caucasian (>80%). 
+- Userbase of Twitter (now X) has most likely changed a lot since this was published. 
+- Don't know the motivations or mechanisms that supersharers have towards sharing fake news (or non-fake news).
+
+What are the main conclusions and implications in the wider context?
+- Supersharers of fake news, contrary to stereotypes, are not young, alt-right male hackers but older, right-leaning, caucasian women. 
+- 0.3% of Supersharers can contribute to 80% of the media.
+
+- In a wider context, we can consider than we only need to focus on a subset of media accounts when it comes to limiting fake news, which speeds up computation. 
+- Furthermore, less money can be spent on campaigning if these accounts (supershares) be utilised for the campaign purposes.
+
+Any other comments?
+- Recent work has shown 80% of fake news on social media is spread by a small fraction of the user base 
+	- https://www.science.org/doi/10.1126/science.aau2706
+	- https://doi.org/10.1126/sciadv.aau4586
+	- https://csdp.princeton.edu/publications/selective-exposure-misinformation-evidence-consumption-fake-news-during-2016-us

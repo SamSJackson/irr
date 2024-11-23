@@ -5,20 +5,26 @@ What to review:
 - Potential issues in reliability of social networks for disaster response. 
 - Existing methods of using social networks for disaster response. 
 - Methods of real-time analysing social networks. 
+	- Veracity of disaster information.
+	- Determining that a disaster is taking place. 
 
 Seed Papers:
 - CONTAIN: A community-based algorithm for network immunization.
 DOI: 10.1016/J.JESTCH.2024.101728
 
-- CrisisFacts: Building and Evaluating Crisis Timelines
-DOI: 10.59297/JVQZ9405
+- PAPER ON IDENTIFYING DISASTERS/CRISES IN REAL-TIME
 
 - MCWDST: A Minimum-Cost Weighted Directed Spanning Tree Algorithm for Real-Time Fake News Mitigation in Social Media
 DOI: 10.1109/ACCESS.2023.3331220
 
+- Supershares of Fake News on Twitter
+DOI: 10.1126/science.adl4435
+
 - Mobility Network Models of COVID-19 explain inequities and inform reopening
 DOI: 10.1038/s41586-020-2923-3
 
+CURRENT PROBLEMS:
+- Need to find some information about classifying potential disasters in real-time.
 
 Introduction:
 
@@ -36,7 +42,7 @@ Background:
 
 Literature Review: 
 Primary papers:
-- CrisisFacts - method of building and evaluating crisis timelines.
+- PAPER ON REAL-TIME DISASTER IDENTIFICATION 
 - Mobility Network Models - example of network models for real-time (long-term) disaster response.
 - MCWDST - method of detecting fake news in real-time across social networks (social media).
 - CONTAIN - Community-based algorithm (Louvain) for network immunization (improving reliability).
@@ -50,7 +56,6 @@ Major points:
 Future Work: 
 - Different methods of network immunization? 
 - Improvements to detecting/determining a disaster from social network? (i.e. facebook was first to know about cowgate incident). 
-
 
 Conclusion:
 - Just summarise. Write this at the end. No point speculating now.

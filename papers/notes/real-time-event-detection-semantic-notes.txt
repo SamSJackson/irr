@@ -1,0 +1,36 @@
+Note-Taking Proforma
+
+Title: Real-time event detection in social media streams through semantic analysis of noisy terms 
+Journal: Journal of Big Data
+Author(s): Taiwo Kolajo, Olawande Daramola, Ayodele A. Adebiyi
+Volume: 9:90
+Year: 2022
+Page(s):
+
+What is the paper about?
+
+What is the aim of the study?
+- Identifying events in real-time from social media using big data techniques as well as sentiment analysis with a focus on slangs, abbreviations and acronyms (SAB).
+
+Why is it important?
+- Existing techniques for sentiment analysis to identify events typically filter out stopwords or unknown words. This leads to slangs or abbreviations being undervalued so this paper helps identification techniques by placing focus on modern-day speech to investigate if this has a more positive effect on event identification.
+
+What is the approach/method used to acquire the data? 
+- The input data was acquired through the Twitter API which allows for scraping tweets in real-time, enabling a real-time input stream. 
+- The data used for evalauting the technique was generated through applying their technique. They apply their technique with and without SAB to understand impact of SAB on technique. The model is trained using supervised learning, which allows for metrics such as F1, Recall and Precision.
+
+
+What are the key findings?
+- Improvement on existing methods in event detection with regards to F1, Recall and Precision. 
+- Nigeria has significantly less tweets per minute but this allowed for computing all of the tweets per minute, even if all of them were flagged as potential events. 
+- Performing sentiment analyis on SAB terms is beneficial to event detection, when there is a clear slang term table. 
+
+Are there any limitations?
+- Only used slang from Nigeria. 
+- Nigeria has significantly less tweets per minute compared to average (45 vs 350k) so performance is not realistic for world-wide use-case. 
+- Requires knowledge base to understand slang. 
+
+What are the main conclusions and implications in the wider context?
+- Existing techniques that filter out SAB terms as noisy terms are losing information that is beneficial in event-detection in social data-streams.
+
+Any other comments?
