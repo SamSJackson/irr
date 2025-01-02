@@ -1,1 +1,2 @@
-## Definition of Reliable or Trustworthy Social Network
+
+A Reliable or Trustworthy network is defined here: [[Reliability]].
