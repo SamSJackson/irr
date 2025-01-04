@@ -1,6 +1,6 @@
 ## Italy Landslide
 [DOI](https://doi.org/10.1186/s40677-024-00279-4)
-
+This paper discusses using tweets to find out impact areas of the landslide as reported by media. Struggle to see how earth observation cannot do the same - perhaps in forested areas or during cloudy periods. 
 
 ## Geotagging the Path of Hurricane Ian 
 [DOI](https://doi.org/10.1016/j.ijdrr.2023.103865)

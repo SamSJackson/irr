@@ -1,11 +1,9 @@
-
 ## What are Networks? 
 A *Network*, $G$, is defined as a set of nodes, $N$, and set of edges, $E$. Nodes are connected by edges. For an undirected graph, an edge could be defined as $(x,y)$ between nodes $x$ and $y$. If $G$ was a directed graph, $(x,y)$ would be an edge from $x$ to $y$ explicitly. 
 
 A *Social Network* is a Network which is created to model social interactions of a sort. A common example would be a network graph where nodes are individuals and the edges represent friendship. However, for our case, we consider *Social Networks* to be networks which are derived from a social media platform with a defined interaction.
 
 **Example**: SparseShield derives Social Network as 2-Week Stream of Tweets, only including tweets with mentions or retweets. Edges are directed and defined as a user liking, commenting or retweets. 
-
 ## What does it mean for a Network to be Reliable?  
 Reliability is a larger section and found here: [[Reliability]]
 
@@ -16,4 +14,3 @@ Common other disasters which utilize social networks for response are Hurricanes
 
 ## Principal Methods for Improving Network Reliability 
 This is also a larger section and found here: [[Improving Reliability]]
-
